@@ -47,7 +47,7 @@ https://www.kaggle.com/competitions/cafa-6-protein-function-prediction
 ## ▶️ How to Run
 
 1. Clone the repository
-   git clone https://github.com/yourusername/CAFA6-Protein-Function-Prediction.git
+   git clone https://github.com/Hiral-Rojesara/CAFA6-Protein-Function-Prediction.git
    
 2. Install dependencies
    pip install -r requirements.txt
