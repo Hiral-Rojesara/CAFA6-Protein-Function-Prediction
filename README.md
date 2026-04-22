@@ -1,5 +1,12 @@
 # 🧬 CAFA 6 Protein Function Prediction
+## 🔍 Problem
+Predict protein functions using biological data (CAFA 6 challenge).
 
+## 💡 Solution
+Built a PyTorch-based deep learning model using T5 embeddings with K-Fold cross-validation and ensemble predictions.
+
+## 🚀 Outcome
+Generated predictions with improved performance using ensemble techniques.
 ## 📌 Overview
 This project focuses on predicting protein functions using machine learning techniques as part of the CAFA 6 challenge. The goal is to analyze biological data and classify protein functions accurately.
 
