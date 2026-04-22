@@ -62,6 +62,7 @@ https://www.kaggle.com/competitions/cafa-6-protein-function-prediction
 - Use deep learning models  
 - Improve feature engineering  
 
+⚠️ Note: This project is designed to run on Kaggle or any environment with PyTorch installed.
 ---
 
 ## 👩‍💻 Author
